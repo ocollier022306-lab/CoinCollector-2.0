@@ -1,0 +1,1 @@
+# CoinCollector-2.0
